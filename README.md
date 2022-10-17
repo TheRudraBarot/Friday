@@ -1,2 +1,2 @@
 # Friday
-AI, NLP based multi-class decision tree classifier
+Friday is a AI and NLP based virtual assistant. Inspired by : Tony Stark's F.R.I.D.A.Y.
